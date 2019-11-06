@@ -1,0 +1,6 @@
+點擊btn，下方彈出字串
+
+點擊BTN換頁
+
+   Intent intent = new Intent(Main2Activity.this, MainActivity.class);    //第一個是現在專案名稱，第二個是跳轉的專案
+                startActivity(intent);
